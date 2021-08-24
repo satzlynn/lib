@@ -32,6 +32,9 @@ public class Base {
 			return currentUrl;
 		}
 		
+		public void loadurl() {
+			System.out.println("loadurl");
+		}
 			
 			
 		}
