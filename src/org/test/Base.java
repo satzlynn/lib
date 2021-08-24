@@ -32,7 +32,10 @@ public class Base {
 			return currentUrl;
 		}
 		
-			
+			public void login() {
+				System.out.println("login");
+
+			}
 			
 		}
 		
