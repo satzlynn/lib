@@ -32,10 +32,17 @@ public class Base {
 			return currentUrl;
 		}
 		
+<<<<<<< HEAD
 			public void login() {
 				System.out.println("login");
 
 			}
+=======
+		public void loadurl() {
+			System.out.println("loadurl");
+		}
+			
+>>>>>>> 3bf0136a3bf2ce4c6ed4292f09ac92eed083f041
 			
 		}
 		
